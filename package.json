@@ -1,0 +1,18 @@
+{
+  "name": "eliza-lvl-19",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "lodash.find": "^4.6.0",
+    "nuxt": "^2.14.12",
+    "vuesax": "^4.0.1-alpha.25"
+  },
+  "devDependencies": {}
+}
